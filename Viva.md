@@ -108,6 +108,7 @@ What's is info gain ?
 What is naive based Classifier ?
 
 What is regression ?
+Regression is a data mining function that predicts a number. Age, weight, distance, temperature, income, or sales could all be predicted using regression techniques. For example, a regression model could be used to predict children's height, given their age, weight, and other factors.
 
 What is multiple liner regression ?
 
